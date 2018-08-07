@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ff486238b5b58e7130fc7c07372dd8ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/beae5ab9c58f0779c4479fee68b2c238/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/715c242cb2b52eec5916b60dfac1e812/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a0f3d1f48d1ba9b41a84434107574fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/67152a80f3653c2ca8286f162bac54b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8c4f462f3a3f48a84a4cfa8b179d421b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ce6c8f544a33bfd172f34395b663430c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e3fc60f6b8391a1e326f87da87b221f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7e48a8a7c436585dbb7cb215398e4c84/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b2c27779f553f119729fd5234421a1f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5d7db81768969efaf9f0f54b2901fa43/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:4:5-10:43
+	android:supportsRtl
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ff486238b5b58e7130fc7c07372dd8ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ff486238b5b58e7130fc7c07372dd8ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/beae5ab9c58f0779c4479fee68b2c238/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/beae5ab9c58f0779c4479fee68b2c238/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/715c242cb2b52eec5916b60dfac1e812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/715c242cb2b52eec5916b60dfac1e812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a0f3d1f48d1ba9b41a84434107574fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a0f3d1f48d1ba9b41a84434107574fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/67152a80f3653c2ca8286f162bac54b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/67152a80f3653c2ca8286f162bac54b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8c4f462f3a3f48a84a4cfa8b179d421b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8c4f462f3a3f48a84a4cfa8b179d421b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ce6c8f544a33bfd172f34395b663430c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ce6c8f544a33bfd172f34395b663430c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e3fc60f6b8391a1e326f87da87b221f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e3fc60f6b8391a1e326f87da87b221f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7e48a8a7c436585dbb7cb215398e4c84/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7e48a8a7c436585dbb7cb215398e4c84/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b2c27779f553f119729fd5234421a1f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b2c27779f553f119729fd5234421a1f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5d7db81768969efaf9f0f54b2901fa43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/michalrusnarczyk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5d7db81768969efaf9f0f54b2901fa43/AndroidManifest.xml:20:5-44
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/michalrusnarczyk/Documents/TestR/app/src/main/AndroidManifest.xml
